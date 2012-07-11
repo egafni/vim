@@ -3,7 +3,7 @@ vim
 
 Installation:
 
-    git clone git://github.com/nelstrom/dotvim.git ~/.vim
+    git clone git@github.com:egafni/vim.git ~/.vim
 
 Create symlinks:
 
